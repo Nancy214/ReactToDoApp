@@ -1,3 +1,8 @@
+# React To Do App
+
+![ss of the app](https://github.com/Nancy214/ReactToDoApp/blob/main/Screenshot%20of%20the%20app.PNG?raw=true)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
